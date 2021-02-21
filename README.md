@@ -1,2 +1,2 @@
 # rust
-An exploration on Rust
+Exploring Rust
